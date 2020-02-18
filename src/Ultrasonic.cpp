@@ -1,10 +1,19 @@
+/******************************************************/
+//       THIS IS A GENERATED FILE - DO NOT EDIT       //
+/******************************************************/
+
+#include "application.h"
+#line 1 "c:/Users/mjyou/OneDrive/Documents/Particle/Ultrasonic/src/Ultrasonic.ino"
 /*
  * Project Ultrasonic
  * Description:
  * Author: Michael Young
  * Date:
  */
-  int i = 0;
+  void setup();
+void loop();
+#line 7 "c:/Users/mjyou/OneDrive/Documents/Particle/Ultrasonic/src/Ultrasonic.ino"
+int i = 0;
 
 // setup() runs once, when the device is first turned on.
 void setup() {
