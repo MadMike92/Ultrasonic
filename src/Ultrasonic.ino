@@ -1,7 +1,7 @@
 /*
  * Project Ultrasonic
  * Description:
- * Author:
+ * Author: Michael Young
  * Date:
  */
 
